@@ -1,6 +1,9 @@
+#Input
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
+#Process 
+#Print- Output
 sol = input("Choose Operator (+, -, *, /): ")
 
 if sol == "+":
@@ -16,4 +19,5 @@ elif sol == "/":
         print("Error: Division by zero")
 else:
     print("Invalid Operator")
+
     
