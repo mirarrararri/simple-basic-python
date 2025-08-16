@@ -1,3 +1,4 @@
+#Input
 sub1 = float(input("Enter your English Grade: "))
 sub2 = float(input("Enter your Math Grade: "))
 sub3 = float(input("Enter your Filipino Grae: "))
@@ -7,6 +8,8 @@ sub6 = float(input("Enter your ESP Grade: "))
 sub7 = float(input("Enter your TLE Grade: "))
 sub8 = float(input("Enter Your MAPEH Grade: "))
 
+#Process
+#Print - Output
 add = (sub1 + sub2 + sub3 + sub4 + sub5 + sub6 + sub7 + sub8)
 avg = (add/8)
 
@@ -17,4 +20,5 @@ elif avg >= 90:
 elif avg >= 75:
     print(f"Average: {avg}, Passed")
 else:
+
     print(f"Average: {avg}, Failed")
