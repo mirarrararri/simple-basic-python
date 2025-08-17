@@ -1,4 +1,4 @@
-#Prompt the user to Input Age
+#Prompt user to Input Age
 age = int(input("Enter your age: "))
 
 #Process
@@ -10,5 +10,6 @@ elif age <= 59:
     print("You are an Adult.")
 else:
 
-#Output
+#Output - print
     print("You are a Senior Citizen.")
+
