@@ -1,4 +1,4 @@
-# simple-basic-python
+# Simple-Basic-Python
 My journey as a beginner start here!. 
 
 This repository contains a collection of beginner-friendly Python programs.  
@@ -17,3 +17,5 @@ The purpose of this repository is to:
 - Improve problem-solving and logical thinking skills  
 - Track my progress as a BSIT student 
 
+Author:
+Meralyn M. Ga-as
