@@ -9,10 +9,13 @@ sub7 = float(input("Enter your TLE Grade: "))
 sub8 = float(input("Enter Your MAPEH Grade: "))
 
 #Process
-#Print - Output
 add = (sub1 + sub2 + sub3 + sub4 + sub5 + sub6 + sub7 + sub8)
 avg = (add/8)
 
+#simplier(Process)
+#avg = (sub1 + sub2 +sub3 + sub4 + sub5 + sub6 + sub7 + sub8)/8
+
+#Output
 if avg >= 95:
     print(f"Average: {avg}, With High Honor")
 elif avg >= 90:
@@ -20,5 +23,5 @@ elif avg >= 90:
 elif avg >= 75:
     print(f"Average: {avg}, Passed")
 else:
-
     print(f"Average: {avg}, Failed")
+
