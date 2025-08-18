@@ -11,7 +11,6 @@ Features:
 - Beginner-friendly and easy to understand  
 
 Purpose:
-The purpose of this repository is to:
 - Practice Python fundamentals  
 - Build small and useful programs  
 - Improve problem-solving and logical thinking skills  
