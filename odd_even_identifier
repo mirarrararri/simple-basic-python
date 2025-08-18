@@ -1,9 +1,11 @@
 #Input - propmt user to input number
 num = int(input("Enter a number: "))
 
-#Output
+#Process
+#Output -print
 if num % 2 == 0:
     print(f"\nNumber = {num}: Even number")
 else: 
     print(f"\nNumber = {num}: Odd number")
+
 
