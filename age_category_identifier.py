@@ -9,8 +9,8 @@ elif age <= 19:
 elif age <= 59:
     print("You are an Adult.")
 else:
-
-#Output - print
+#Output -print
     print("You are a Senior Citizen.")
+
 
 
