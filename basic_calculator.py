@@ -3,7 +3,6 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 #Process 
-#Print- Output
 sol = input("Choose Operator (+, -, *, /): ")
 
 if sol == "+":
@@ -17,7 +16,10 @@ elif sol == "/":
         print(f"{num1} / {num2} = ",num1 / num2)
     else:
         print("Error: Division by zero")
+
+#Output -print
 else:
     print("Invalid Operator")
 
     
+
