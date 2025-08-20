@@ -1,4 +1,4 @@
-#Prompt user to input Age
+#Input -Prompt user to input Age
 age = int(input("Enter your age: "))
 
 #Process
@@ -11,6 +11,7 @@ elif age <= 59:
 else:
 #Output -print
     print("You are a Senior Citizen.")
+
 
 
 
