@@ -1,4 +1,4 @@
-#Input - propmt user to input number
+#Input - ask user to input number
 num = int(input("Enter a number: "))
 
 #Process
@@ -9,6 +9,7 @@ if num % 2 == 0:
 #Output -print
 else: 
     print(f"\nNumber = {num}: Odd number")
+
 
 
 
