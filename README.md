@@ -1,5 +1,5 @@
 # Simple-Basic-Python
-My journey as a beginner start here!. 
+My journey as a beginner started here!. 
 
 This repository contains a collection of beginner-friendly Python programs.  
 It is part of my school programming activities and showcases the basics of Python coding such as input/output, loops, conditionals, and functions.
