@@ -5,10 +5,9 @@ num = int(input("Enter a number: "))
 #Output -print
 if num % 2 == 0:
     print(f"\nNumber = {num}: Even number")
-
-#Output -print
 else: 
     print(f"\nNumber = {num}: Odd number")
+
 
 
 
