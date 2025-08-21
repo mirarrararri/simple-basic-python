@@ -1,4 +1,4 @@
-#Input -ask user to input 8 different grade from 8 subjects
+#Input -ask user to input grade from 8 subjects
 sub1 = float(input("Enter your Grade in Filipino: "))
 sub2 = float(input("Enter your  Grade in Math: "))
 sub3 = float(input("Enter your  Grade in Filipino: "))
@@ -24,6 +24,7 @@ elif avg >= 75:
     print(f"Average: {avg}, Passed")
 else:
     print(f"Average: {avg}, Failed")
+
 
 
 
